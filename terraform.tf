@@ -24,7 +24,6 @@ terraform {
   }
 }
 
-#----Tell terraform to use Az cli auth
 provider "azurerm" {
   features {
   }
